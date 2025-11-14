@@ -1,0 +1,5 @@
+class main {
+public static void main(string[] args) {
+sistem.out.println("olá, essa é atividadde 1!")
+}
+}
